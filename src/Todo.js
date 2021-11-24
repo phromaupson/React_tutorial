@@ -6,7 +6,7 @@ const Todo = ({ text, age }) => {
     <div>
       {/* <h3>{props.text}</h3> */}
       <h3>
-        {text}: {age}
+        {age}: {text}
       </h3>
     </div>
   );
